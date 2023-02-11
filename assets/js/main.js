@@ -15,3 +15,5 @@ hideBtn.addEventListener('click', function() {
 showBtn.addEventListener('click', function(){
     box.style.display = "inline-block"
 })
+
+
